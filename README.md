@@ -1,8 +1,8 @@
 # hw01
 
 ## Name: Mengdi Huang
-*University of Chicago*/n
-**MAPSS**/n
+* *University of Chicago*
+* **MAPSS**
 My research interests:
 1. Social Cognition
 1. Emotions

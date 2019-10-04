@@ -3,7 +3,7 @@
 ## Name: Mengdi Huang
 * *University of Chicago*
 * **MAPSS**
-My research interests:
+* My research interests:
 1. Social Cognition
 1. Emotions
 1. Behavioral Science

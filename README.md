@@ -3,6 +3,9 @@
 ## Name: Mengdi Huang
 *University of Chicago*
 **MAPSS**
-1. One
-1. Two
-1. Three
+My research interests:
+1. Social Cognition
+1. Emotions
+1. Behavioral Science
+
+![Here's a picture of me and my cat](IMG_5878.JPG)

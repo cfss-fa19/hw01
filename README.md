@@ -12,6 +12,6 @@ My name is **Jue Zhou**. I am a MAPSS student and I concentrate in sociology. My
 
 Welcome to douban.com (a chinese website for people to mark and review books, movies, TV series, video games) to share your favorite books, movies and games with me. This is my personal page: <https://www.douban.com/people/92626129/> 
 
-Here is a comic book about PhD life. It's very funny. Go and check it!
+Here is a comic book about PhD life. It's very funny. Go and check it.
 ![Image](comic.jpg)
 

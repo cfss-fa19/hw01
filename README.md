@@ -16,9 +16,10 @@ My research interest generally focuses on **International Trade**
 ## Hobbies
 * *Travelling*
 * *Pop Music*
+* *Cycling*
 
 ## My Photo
-![**Photo of Yanchi**](Yanchi.png)
+![](Yanchi.png)
 
 
 

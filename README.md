@@ -2,7 +2,11 @@
 #### (hw01)
 
 ### **Hello!**
+<<<<<<< HEAD
 My name is **Yuanhe Liu**. I am a **MAPSS** student with a concentration in **Psychology**. 
+=======
+My name is **Yuanhe Liu**. I am a **MAPSS** student with concentration on **Psychology**. 
+>>>>>>> a13ea8409491c9551d2f09187f1d0bc248da02ea
 
 * ### *Some Facts About Me*
   + I am 22 years old

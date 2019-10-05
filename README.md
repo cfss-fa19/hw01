@@ -19,4 +19,4 @@ I have had the following pets throughout my life:
   
   Here is a picture of me:
   
-  ![Headshot](https://github.com/jwhenry28/hw01/blob/master/Sprints%20Headshot%202019.JPG)
+  ![Headshot](https://github.com/jwhenry28/hw01-1/blob/master/Sprints%20Headshot%202019.JPG)

@@ -25,4 +25,4 @@
 
 ### I also work as the Financial Manager of Ex Libris Café in the Reg. Essentially what that means is that I have a ton of data at my fingertips, but haven't really learned how to work with it in a meaningful way - another thing that makes this class exciting for me.
 
-### In my free time, I'm a Marketing Director for the Chicago Economics Forum. I recently updated our [website](https://www.cef.edu), and I'm pretty excited about it. I also do a bit of freelance photography, graphic design, and generally try to stay involved in the arts where I can. I have 1662 photos on my camera roll and can guarantee you that more half of them are memes.
+### In my free time, I'm a Marketing Director for the Chicago Economics Forum. I recently updated our [website](https://cef.uchicago.edu), and I'm pretty excited about it. I also do a bit of freelance photography, graphic design, and generally try to stay involved in the arts where I can. I have 1662 photos on my camera roll and can guarantee you that more half of them are memes.

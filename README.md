@@ -4,7 +4,7 @@
 
 # My name is Carolyn Hammond.
 
-![a somewhat-updated photo of me](self.jpg)
+![a somewhat-updated photo of me](https://www.google.com/calendar?tab=ic1)
 
 -----
 

@@ -14,4 +14,4 @@ My name is **Yuanhe Liu**. I am a **MAPSS** student with a concentration in **Ps
   + [Facebook](https://www.facebook.com/profile.php?id=100005223360681)
 
 * ### *A Picture of Me*
-  + ![](hw01.jpeg)
+  + ![Picture of Me](hw01.jpeg)

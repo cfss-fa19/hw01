@@ -16,6 +16,7 @@
 * My facebook page is:https://www.facebook.com/yuhan.jin.18
 
 ## Picture of myself
+![](E:\repository git\myself.jpg)
 
 
 

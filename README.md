@@ -14,7 +14,3 @@ iii) perform this work in a way that would be reproducable and save me time in t
 Prior to graduate school, I worked for years as a budget analyst at the City of Oakland in California. Here is a photo of me working on the [FY20-25 Capital Improvement Program](https://www.oaklandca.gov/documents/fy-2019-21-capital-improvement-program-cip):
 
 ![Elliot Karl, circa June 2018](EK Headshot.jpg)
-<<<<<<< HEAD
-
-=======
->>>>>>> cbe58c20c4ab37cb35cd4ee9a1f0735b873deb12

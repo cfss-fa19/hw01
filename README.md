@@ -17,7 +17,7 @@
 
 ## Reflections on the process
 * Problems solved:
-  * The picture I wanted to insert here was too large, but I didn't know how to set size for local images at the beginning. The tutorial that helped me solve the problem is the answer of *InspectorSands* on [this stackoverflow website](https://stackoverflow.com/questions/15625990/how-to-set-size-for-local-image-using-knitr-for-markdown).
+  * The picture I wanted to insert here was too large, but I didn't know how to set size for local images at the beginning. The tutorial that helped me solve the problem is the answer of *InspectorSands* on [this stackoverflow website](https://stackoverflow.com/questions/15625990/how-to-set-size-for-local-image-using-knitr-for-markdown). The size of the picture may still seem too large in the Github preview of the md file, but everything is much better in the final html file I uploaded.
   * When trying to commit, I received an error message as follows:
   ```
   *** Please tell me who you are.

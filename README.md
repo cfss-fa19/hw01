@@ -1,7 +1,5 @@
 # hw01
 
-# Hello! 
+# Brief Biography
 
-My name is **Yuhan Jin** and I was born in Quzhou, China
-
-I am a first year MAPSS ECON student. I earn my bachelor of science degree in University of Minnesota in Econ department. 
+## Hello! My name is "Yuhan Jin" and I pursed my bachelor of science in Economics at Uninversity of Minnesota, Twin    Cities, and now I am a first year MAPSS student with a concerntration on Economics. 

@@ -16,7 +16,7 @@
 * My facebook page is:https://www.facebook.com/yuhan.jin.18
 
 ## Picture of myself
-* !(E:\repository git\hw01\myself.jpg)
+* ![](/repository git/hw01/myself.jpg)
 
 ## Reflection on the process 
 * The procedure of forking the reposoitory and cloning it to my own computer was easy to handle, but I spent some time figuring out how to make a push request and upload my changes into my Github.

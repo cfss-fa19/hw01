@@ -16,12 +16,12 @@
 * My facebook page is:https://www.facebook.com/yuhan.jin.18
 
 ## Picture of myself
-*![E:\R pictures\myself.jpg]
+* !(E:\repository git\hw01\myself.jpg)
 
 ## Reflection on the process 
-*The procedure of forking the reposoitory and cloning it to my own computer was easy to handle, but I spent some time figuring out how to make a push request and upload my changes into my Github.
+* The procedure of forking the reposoitory and cloning it to my own computer was easy to handle, but I spent some time figuring out how to make a push request and upload my changes into my Github.
 
-*The challenge I encountered is how to insert the picture and how to size it. 
+* The challenge I encountered is how to insert the picture and how to size it. 
 
 
 

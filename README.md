@@ -9,5 +9,6 @@
 
 * I'm from China
 * a first-year MAPSS student with a concentration on Economics. 
-* I pursed my bachelor of science in Economics at Uninversity of Minnesota, Twin Cities
+* I obtained my B.S.degree in Economics at Uninversity of Minnesota, Twin Cities
+* I am interested in financial economy and international trade
 

@@ -16,14 +16,12 @@
 * My facebook page is:https://www.facebook.com/yuhan.jin.18
 
 ## Picture of myself
-![profile picture](file:myself.jpg)
-
-
+![profile picture](myself.jpg)
 
 ## Reflection on the process 
 * The procedure of forking the reposoitory and cloning it to my own computer was easy to handle, but I spent some time figuring out how to make a push request and upload my changes into my Github.
-
-* The challenge I encountered is how to insert the picture and how to size it. 
+* When you are coding, you should be very careful about spacing between the codes and words. 
+* The challenge I encountered is how to insert the picture. I referred to the website https://rpubs.com/RatherBit/90926 which clarifies the code for inserting pictures.
 
 
 

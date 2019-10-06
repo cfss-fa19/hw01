@@ -1,3 +1,3 @@
 # hw01
 
-Hello, I am **Takuyo Ozaki** from Japan. Nice to meet you.
+Hello, my name is **Takuyo Ozaki**. I am from Japan. Nice to meet you.

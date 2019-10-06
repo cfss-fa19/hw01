@@ -10,7 +10,7 @@ My wife is working as a **paralegal** for a law firm in Chicago. My son is three
 I am a second-year graduate student at **Harris**. Now I am taking **study leave** from work to get the masters' degree of public policy. At my undergrad, I majored in **Law** at [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).
 
 ## Professional experience
-I am **a government official** at [the Ministry of Health, Labor and Welfare of Japan](https://www.mhlw.go.jp/english/). My main job was **drafting legal bills** to reform the social system. I have some experiences in making policies in the following fields.
+I am **a government official** at [the Ministry of Health, Labor and Welfare of Japan](https://www.mhlw.go.jp/english/). My main job was **drafting legal bills** to reform the social systems. I have some experiences in making policies in the following fields.
     - health insurance
     - pension
     - child abuse prevention

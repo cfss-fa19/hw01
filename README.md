@@ -1,6 +1,6 @@
 # hw01
 
-### Basic information
+## Basic information
 My name is **Takuyo Ozaki** (he/him/his). I am from **Japan** and thirty years old. I live in Hydepark with my wife and son.
 
 ## Family information

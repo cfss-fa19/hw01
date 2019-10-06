@@ -16,7 +16,7 @@
 * My facebook page is:https://www.facebook.com/yuhan.jin.18
 
 ## Picture of myself
-![profile picture](\Users\Yuhan Jin\Desktop\myself.jpg)
+![profile picture](file:myself.jpg)
 
 
 

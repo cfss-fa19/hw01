@@ -6,7 +6,7 @@ My name is **Takuyo Ozaki** (he/him/his). I am from **Japan** and thirty years o
 ## Family information
 My wife is working as a **paralegal** for a law firm in Chicago. My son is three years old and going to **daycare** at [UChicago Child Development Center.](https://child-care-preschool.brighthorizons.com/il/chicago/uchicagostonyisland) Here is a family photo taken in Florida. **We love Disney!**
   
-[Family Photo]()
+[Family Photo](Family.jpg)
 
 ## Academic experience
 I am a second-year graduate student at **Harris**. Now I am taking **study leave** from work to get the masters' degree of public policy. At my undergrad, I majored in **Law** at [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html).

@@ -17,6 +17,4 @@ I am **a government official** at [the Ministry of Health, Labor and Welfare of 
     - labor relations
 
 ## Characteristics/Hobby
-Actually, I am an *introvert* person. In my free time, I often watch movies or dramas on **Netflix** at home. One of my favorite dramas is ["Breaking Bad"](https://www.amc.com/shows/breaking-bad). This is a story about a high school chemistry teacher producing Methamphetamine. It's so exciting!  
-
-![Family photo](Family.jpg)
+Actually, I am an *introvert* person. In my free time, I often watch movies or dramas on **Netflix** at home. One of my favorite dramas is ["Breaking Bad"](https://www.amc.com/shows/breaking-bad). This is a story about a high school chemistry teacher producing Methamphetamine. It's so exciting! 

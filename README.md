@@ -2,12 +2,12 @@
 ## Angel Aliseda Alonso 
 
 ### Background
-My name is Angel Aliseda Alonso, I am a second-year MPP student from Harris School of Public Policy. I was born in Mexico and before coming to the University of Chicago I worked at the Mexican Social Security Institute. My professional interests are __health policy__, __health systems reform__ and __program evaluation__, but I also enjoy running next to Lake Michigan, traveling and food (specially __deserts__).
+My name is Angel Aliseda Alonso, I am a second-year MPP student from Harris School of Public Policy. I was born in Mexico and before coming to the University of Chicago I worked at the Mexican Social Security Institute. My professional interests are __health policy__, __health systems reform__ and __program evaluation__, but I also enjoy __running next to Lake Michigan__, __traveling__ and food (specially __desserts__).
 
 ### Education
 
-* BA in Economics from the Instituto Tecnologico Autonomo de Mexico (ITAM), _2009-2014_
-* BA in Political Science from the Instituto Tecnologico Autonomo de Mexico (ITAM), _2009-2014_
+* B.A. in Economics from the Instituto Tecnologico Autonomo de Mexico (ITAM), _2009-2014_
+* B.A. in Political Science from the Instituto Tecnologico Autonomo de Mexico (ITAM), _2009-2014_
 
 ### Work Experience
 

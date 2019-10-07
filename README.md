@@ -15,4 +15,5 @@ I do a lot on campus.
 I am learning to cook using New York Times [recipes](https://cooking.nytimes.com).
 
 Here is my profile picture!
-![profile](Screen Shot 2019-10-03 at 3.00.17 PM.png)
+
+![profile](https://github.com/maddiherne/hw01-1/blob/master/Screen%20Shot%202019-10-03%20at%203.00.17%20PM.png)

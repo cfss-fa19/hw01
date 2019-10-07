@@ -17,7 +17,16 @@ The list made it clear that Denver was the best place for the family and that Ne
 
 ![Image of Heimlich](Heimlich.JPG)
 
-### Childhood
+__*OOOHHH?*__
 
+### Childhood
+Zachary's childhood was full of wonder, excitement, and curiosity. The only problem, was that he was never good at expressing these emotions facially.  For example, here is Zach on Halloween when he was 3 years old:
+
+![Image of TREX](TREX.JPG)
+
+He loved this costume and knew that this would be the __*greatest* outfit that he would ever wear__. Unfortunately, his inability to even smile for the camera makes him seem sad and unamused by the pageantry of the holiday.
+Luckily for Zach, he grew out of that phase and became a happy child, who played outside with the neighborhood kids, competed in athletics, and excelled in school.
 
 ### Adulthood
+
+As Zach now enters his adulthood, he is amazed by the opportunities the world presents him.  He is at an amazing university, where he can take classes that both _intrigue_ and _challenge_ him. A prime example would be the class he is taking currently, __Computing for the Social Sciences__, where he can learn about the intracacies of the core principles of programming and then apply it to his future research and professional career. There are many more things to come in his life, but he knows that all he should do now is hunker down and get the most out of his last year at the University of Chicago.

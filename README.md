@@ -9,8 +9,8 @@ New Jersey | Colorado
 ---------- | --------
 Close to New York City | The center of the country
 Close to the Atlantic Ocean | Land land to be submerged by rising sea levels
- | Nature is everywhere
- | Land is cheap and spacious, room for kids to play
+... | Nature is everywhere
+... | Land is cheap and spacious, room for kids to play
 It's *New Jersey* | It's **Colorado**
 
 The list made it clear that Denver was the best place for the family and that New Jersey didn't have enough positives to stay:

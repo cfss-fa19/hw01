@@ -10,7 +10,7 @@ My research interests are in applied Economics so skills in data science become 
 
 ***
 ## How did I change repo?
-1. pull from the homework repo, and clone it using *SSH* link, such as: [hw01](git@github.com:Luorao/hw01.git). I use this now instead of the *https* because I've set up the SSH Key, I don't need to type it every time.
+1. pull from the homework repo, and clone it using *SSH* link,you can find it on the right green button. [hw01](https://github.com/Luorao/hw01). I use this now instead of the *https* because I've set up the SSH Key, I don't need to type it every time.
 
 2. Few commands we need to make changes:
 + git add

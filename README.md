@@ -10,3 +10,4 @@ This one in particular is a very unusual way of data visualization [Image of inf
 2. A more recent example of data visualization in ![reporting by The New York Times](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html)
 
 
+dd

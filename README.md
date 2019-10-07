@@ -19,6 +19,6 @@
 ## Reflection and Experience 
 - **Problem 0:** no previous experience with any programming language, first study in an English enviornment. The process is the opposite of painless and takes me loooooooonger time to figure everything out.
 
-- **Problem 1:** R punched me at the very beginning with an unreadale error message when I try to push/pull. I installed every components but there was nothing on the upper right pane under git tab. Neither TA and teacher know what was going on, just when I was considering using R cloud instead. My roommate suggested I might could have changed the file name from chinese to english. Finally, I changede the whole computer system's priority language and it worked out !!! 
+- **Problem 1:** R punched me at the very beginning with an unreadale error message when I tried to push/pull. I installed every components but there was nothing in the upper right pane under git tab. Neither TA and teacher knew what was going on, just when I was thinking about using R cloud instead. My roommate suggested I could try to change the file name from chinese to english. Finally, I changed the computer system's priority language and it worked out !!! 
 
 **Everything else could be found on our useful website! _(it just takes time)_**

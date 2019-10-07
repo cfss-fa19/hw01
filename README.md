@@ -11,7 +11,7 @@
 
 [My Github Page](https://github.com/Mirrorlkj)
 
-##Pic
+## Pic
 - [x] __This is my profile photo!__
 
 ![Profile Photo](https://raw.githubusercontent.com/Mirrorlkj/hw01/master/IMG_7482.JPG)

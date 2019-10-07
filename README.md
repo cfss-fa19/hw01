@@ -11,11 +11,9 @@ I am originally from [Florida](https://time.com/4214021/florida-man-throws-allig
 * Improv comedy
 * Cats
 * Learning to code
+* Donating hair! Here is an 'after' photo I took last January:
 
-![](https://images-na.ssl-images-amazon.com/images/I/511c1rzGXYL.jpg)
-
-* Jokes!
-
+To see the 'before' photo, click here!
 
 
-No but really, I have really been enjoying it thus far, and also whenever I think of coding I think of [this hilarious website](www.hackertyper.net).
+I have really been enjoying it thus far, and also whenever I think of coding I think of [this hilarious website](www.hackertyper.net).

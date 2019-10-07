@@ -1,4 +1,3 @@
-# hw01
 # Sam Sustacek's Biography
 My name is Sam Sustacek, as you can tell by the title, and I am a **4th year** at the Univeristy of Chicago. Originally, I'm from Minneapolis, MN, but I haven't lived there in *3 years*, because I spend all of my time in Chicago. 
 

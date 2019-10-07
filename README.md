@@ -1,3 +1,11 @@
-# hw01
+##Zachary Weinroth
+###October 7, 2019
+###HW01
 
-# Testing github
+###The Beginning
+
+
+###Childhood
+
+
+###Adulthood

@@ -18,13 +18,8 @@ My name is Jacob Sims Speyer, and I am a third-year Public Policy Major from [Ne
     
 -   Both my mother and my late father (along with the rest of my family) are South African. However, my family can be traced back to a small town in Germany during the Crusades, and pre-inquisition Portugal  
 
--   
+-   I look up to my late father as a source of inspiration. Before he passed away last year, he reminded me that:
+
+>"You should never give up, even when you get tired of not giving up"
 
 
-**My initial thoughts/proccesses/dealings with Github and RStudio:**  
-
-<Stars around a text creates bolded text> 
-My first task was to fork the repository to my own GitHub. My biggest fear was accidentally editing the master README.md rather than my own copy of the README.md (thus submitting the entire class to my homework draft). Fortunately, the Fork tool clones a copy of the repository to my own desktop. At first, I was a little confused as to whether the repository was my own, but it was clearly listed under my account.  
-From there, I clicked the clone or download button, which provided me with a link to the document located in GitHub. It was from here where my problems started. I was first a little confused, and thought that I needed to create my own Markdown document, and upload it to GitHub. Although I was able to generate new Markdown files in RStudio, I could not figure out how to add it to the Repository (In retrospect, I just needed to upload the documents to GitHub, but this was incorrect for the sake of the homework assignment). I went and reviewed the instructions from the first class. I went to:New Project -> Version Control -> Git -> Repository URL From there, I pasted the URL that I had previously copied, and opened it in a new session. 
-
-One difficulty I had when drafting this homework was including a well-sized image in the correct location. I had to edit the image size and resolution in Preview, upload it, and re-insert the link. This took four or five tries. I also wanted to center the image, but some Googling revealed that this could only be done with embedded HTML. 

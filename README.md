@@ -3,7 +3,7 @@ Homework 01
 
 ### By Jacob Sims Speyer
 
-#### October 4, 2019
+#### October 7, 2019
 
 
 

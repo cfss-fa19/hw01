@@ -26,6 +26,7 @@ My name is Angel Aliseda Alonso, I am a second-year MPP student from Harris Scho
 You can find more information about me in [LinkedIn](https://www.linkedin.com/in/angel-aliseda-alonso-06a7aa74/)
 
 ### Pictures
+![Picture of Angel](AAA.jpg)
 
 
 

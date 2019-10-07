@@ -9,5 +9,5 @@ My name is *_Audrey Teo_*. I'm a fourth-year student majoring in Public Policy S
 This one in particular is a very unusual way of data visualization [Image of infographic](https://c1.staticflickr.com/1/626/32610925162_cdab5c9cfa_o.jpg)
 2. A more recent example of data visualization in [reporting by The New York Times](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html)
 
-### A Fun Picture
-![This is my dog](IMG_5918.jpg)
+### A Fun Picture of My Dog
+![Jackie](IMG_5918.jpg)

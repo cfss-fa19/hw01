@@ -1,11 +1,11 @@
-##Zachary Weinroth
-###October 7, 2019
-###HW01
+## Zachary Weinroth
+### October 7, 2019
+### HW01
 
-###The Beginning
-
-
-###Childhood
+### The Beginning
 
 
-###Adulthood
+### Childhood
+
+
+### Adulthood

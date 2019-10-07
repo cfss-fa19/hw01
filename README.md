@@ -4,21 +4,23 @@
 
 Hello! My name is **Nikhil Mandalaparthy** (my first name is pronounced *nick-hill*). I'm currently a MPP student at the Harris School of Public Policy, and I just graduated in June from the College, with a BA in Public Policy Studies. This is my [personal website](https://nikhilmandala.com/).
 
-## My Summer
-
-This summer, I was lucky enough to spend time in different cities, countries, and continents! Here's what I was up to:
-
-- After graduation, I went back home to **Seattle, WA** for a week.
-- Then, I went across the country to **Washington, DC** for an internship.
-- Following my internship, I went back to Seattle and then helped my family move to **San Jose, CA**.
-- I then went to India for a journalism project. I spent most of my time in the national capital of **New Delhi**, and I also visited a smaller city in the northwest called **Ajmer**.
-- Now I'm back in **Chicago** for my last year at UChicago.
-
 ## What I Look Like
 
 ![Me](Headshot - Cropped.jpg){ width=50% }
 
-## My Process
+## My Biography
+
+Here's some information about my life -- where I'm from and where I've been.
+
+- My parents are from **India** -- specifically, the state of **Andhra Pradesh**.
+- I was born in **Singapore**.
+- When I was less than a year old, we moved to the **US**: first **Boston** for a few months and then **Seattle**
+- I spent the next 18 years of my life in **Seattle**; my younger brother was born there too.
+- After high school, I came to **Chicago** for college, and after finishing my bachelor's degree at UChicago, I'm staying on for an extra year to finish my MPP.
+- I've been lucky enough to visit **India** several times with my family. I also studied abroad in **Morocco** in 2018. I've visited a few other countries: **Indonesia**, **Mexico**, **Canada**, and **France**.
+- This past summer, I was working in **Washington, DC**, and then spent a few weeks in **India**.
+
+## Working with R Markdown & Github
 
 I am familiar with R and R Markdown, having used them extensively in my statistics classes and Program Evaluation class last year. I also used R in my internship this past summer to analyze and visualize data. Thus, I feel comfortable with different types of formatting, inserting code, etc. I hadn't embedded images or hyperlinks in a Markdown document before, so I had to Google how to do that and quickly found an answer.
 

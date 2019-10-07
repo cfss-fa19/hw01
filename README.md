@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is *_Audrey Teo_*. I'm a fourth-year student majoring in Public Policy Studies. I'm taking this class because I'm currently working on my B.A. Thesis and think this class would be very helpful when I start working with data. 
+My name is *_Audrey Teo_*. I'm a fourth-year student majoring in _Public Policy Studies_. I'm taking this class because I'm currently working on my B.A. Thesis and think this class would be very helpful when I start working with data. 
 
 ### Few examples of data visualization that I've encountered in the past that I think are cool:
 1. W.E.E.B. Du Bois's [Infographics of African American Life in the 1900s](https://publicdomainreview.org/collections/w-e-b-du-bois-hand-drawn-infographics-of-african-american-life-1900/) 

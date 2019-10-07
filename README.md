@@ -15,3 +15,4 @@ I do a lot on campus.
 I am learning to cook using New York Times [recipes](https://cooking.nytimes.com).
 
 Here is my profile picture!
+![profile](Screen Shot 2019-10-03 at 3.00.17 PM.png)

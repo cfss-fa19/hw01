@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! My name is **Nikhil Mandalaparthy** (my first name is pronounced *nick-hill*). I'm currently a MPP student at the Harris School of Public Policy, and I just graduated in June from the College, with a BA in Public Policy Studies.
+Hello! My name is **Nikhil Mandalaparthy** (my first name is pronounced *nick-hill*). I'm currently a MPP student at the Harris School of Public Policy, and I just graduated in June from the College, with a BA in Public Policy Studies. This is my [personal website](https://nikhilmandala.com/).
 
 ## My Summer
 
@@ -20,7 +20,7 @@ This summer, I was lucky enough to spend time in different cities, countries, an
 
 ## My Process
 
-I am familiar with R and R Markdown, having used them extensively in my statistics classes and Program Evaluation class last year. I also used R in my internship this past summer to analyze and visualize data. Thus, I feel comfortable with different types of formatting, inserting code, etc. I hadn't embedded images in a Markdown document before, so I had to Google how to do that and quickly found an answer.
+I am familiar with R and R Markdown, having used them extensively in my statistics classes and Program Evaluation class last year. I also used R in my internship this past summer to analyze and visualize data. Thus, I feel comfortable with different types of formatting, inserting code, etc. I hadn't embedded images or hyperlinks in a Markdown document before, so I had to Google how to do that and quickly found an answer.
 
 Markdown isn't new to me, but Github is. I do feel a bit lost regarding what exactly Github is for and how to use it effectively, but I'm sure that will come with time. The TA session last week was very helpful for me in learning how to fork the repository, pull from GitHub, commit changes, push to GitHub, and finally send a pull request.
 

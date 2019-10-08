@@ -25,4 +25,4 @@ Born and raised in a small tropical island in China, I chose to study abroad whe
 
 ![Here's a picture of me trying to program in R](download-1.jpg)
 
-[This is the link to my HW1](https://github.com/mengdih97/hw01)
+[This is the link to my old lab at UCSD and I am the one holding the cat!](http://oveislab.com/people)

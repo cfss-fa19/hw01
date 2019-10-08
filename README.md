@@ -28,3 +28,7 @@ E-mail:*shuaiyuan@uchicago.edu*
     + Logistical Regression
     + Difference in Difference
     + Instrumental Variable
+    
+##**Linked-in Page**
+
+[Linked-in Page](http://linkedin.com/in/shuai-yuan-06a8b2174)

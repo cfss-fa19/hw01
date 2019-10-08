@@ -1,2 +1,2 @@
-# hw01my bio
-adding a line
+# Computing for SS HW1 testing
+## Name

@@ -8,7 +8,7 @@ Zach Weinroth was born May 8, 1998 in Summit County, New Jersey.  His parents fe
 New Jersey | Colorado
 ---------- | --------
 Close to New York City | The center of the country
-Close to the Atlantic Ocean | Land land to be submerged by rising sea levels
+Close to the Atlantic Ocean | Last of NA lands to be submerged by rising sea levels
 ... | Nature is everywhere
 ... | Land is cheap and spacious, room for kids to play
 It's *New Jersey* | It's **Colorado**

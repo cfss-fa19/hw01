@@ -23,7 +23,7 @@ While had minimal coding experience beforing coming to Harris, Borui has develoe
 * Amateur dota player 
       
 ## **Image**
-![Selfie with one of her cats](C:/Users/Borui Sun/Desktop/照片/2019-04-02.jpg)
+![Selfie with one of her cats](https://raw.githubusercontent.com/boruis12/hw01/master/2019-04-02.jpg)
 
 
 

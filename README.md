@@ -1,4 +1,4 @@
-# **CFSS-HW01**
+# CFSS-HW01
                            
 ## **Biography of Borui Sun**
            
@@ -9,12 +9,12 @@ Borui is a second year Master of Public Policy student at the University of Chic
 ## **Coding Experience**
 While had minimal coding experience beforing coming to Harris, Borui has develoepd a strong interest in data analysis after one year of studying. She had experience with the following programming languages: 
          
-* R _proficient_: 
+* **R _proficient_**: 
     + completed 20+ R projects in class practice using tydiver, ggplot, tplyr and other packages; 
     + spend past summer learning spatial data analysis using R 
-* Python _proficient_: 
+* **Python _proficient_**: 
     + two quarters of studying, familiar with numpy, pandas, BeautifulSoup, Matplotlib packages 
-* STATA _basic_:
+* **STATA _basic_**:
     + very basic familarity
       
 ## **Fun Facts**

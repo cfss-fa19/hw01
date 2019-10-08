@@ -19,12 +19,12 @@ E-mail:*shuaiyuan@uchicago.edu*
 
 * 1.Statistics I: Basics
     + Probability Theory
-    + Hypothesis Testing  
-      - Doing t-test 
+    + Hypothesis Testing 
+        - Doing t-tests
 
 * 2.Statistics II: Regression Analysis
     + Multivariant Regression 
-      - Interaction    
+        - Interaction    
     + Logistical Regression
     + Difference in Difference
     + Instrumental Variable
